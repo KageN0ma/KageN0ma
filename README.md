@@ -1,9 +1,17 @@
-## Hi there 👋
+# 👋 Welcome to KageN0ma
+
+🥷 Red Team–oriented security researcher  
+🔐 Focus: offensive security, threat simulation, cyber strategy  
+🌐 Website: [kagen0ma.com](https://kagen0ma.com)  
 
 <!--
 **KageN0ma/KageN0ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+---
+> "In the shadows of code, every flaw has a story."
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
