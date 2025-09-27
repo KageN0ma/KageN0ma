@@ -4,6 +4,8 @@
 🔐 Focus: offensive security, threat simulation, cyber strategy  
 🌐 Website: [kagen0ma.com](https://kagen0ma.com)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KageN0ma&show_icons=true&theme=dark)
+
 <!--
 **KageN0ma/KageN0ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
